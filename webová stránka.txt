@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Harry Potter</title> 
+</head>
+
+<body>
+<h1>Lucie H</h1> 
+<p>Vyhledej</p>
+
+  <p>hledej na google</p>
+  <form action="https://www.google.com/search" method="get">
+    <input type="text" name="q" placeholder="Enter your search query">
+    <button type="submit">vyhledej na google</button>
+  </form>
+</body>
+</html>
+</form> </body>
+</html>
+
+    
